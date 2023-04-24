@@ -20,6 +20,6 @@ N/A
 
 ## License
 
- [MIT](https://choosealicense.com/licenses/mit/).
+ This repository uses the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 ---
